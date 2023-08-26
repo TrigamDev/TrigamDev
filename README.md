@@ -1,4 +1,4 @@
-# Trigam
+# ![logo_panel]
 A programmer, artist, and extreme comp sci addict. I currently program things as a hobby, but plan to become a game developer in the future. I'm extremely passionate about programming and am mostly really proud of everything I've made here.
 This is my second account (I didn't like the name) and am currently in the process of transferring everything over, so this isn't all that I've made.
 
@@ -14,3 +14,5 @@ A scripting language allowing you to create custom commands for the project abov
 * Discord Server - https://dsc.gg/trigam-den 
 * Twitter - https://twitter.com/Trigam04  
 * YouTube - https://www.youtube.com/@trigamdev
+
+[logo_panel]: https://github.com/TrigamDev/TrigamDev/blob/main/assets/logo_panel.png
