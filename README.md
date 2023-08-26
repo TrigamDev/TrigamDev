@@ -1,16 +1,16 @@
-### Hi there 👋
+# Trigam
+A programmer, artist, and extreme comp sci addict. I currently program things as a hobby, but plan to become a game developer in the future. I'm extremely passionate about programming and am mostly really proud of everything I've made here.
+This is my second account (I didn't like the name) and am currently in the process of transferring everything over, so this isn't all that I've made.
 
-<!--
-**TrigamDev/TrigamDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Working on
+### [Trigam Botnet](https://github.com/TrigamDev/Trigam-Botnet)
+A collection of single-purpose Discord bots created to enhance your Discord experience and add useful functionality
+### [Axle](https://github.com/TrigamDev/Axle)
+A scripting language allowing you to create custom commands for the project above
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contacts
+* Email - trigambusiness@gmail.com  
+* Discord - trigam
+* Discord Server - https://dsc.gg/trigam-den 
+* Twitter - https://twitter.com/Trigam04  
+* YouTube - https://www.youtube.com/@trigamdev
