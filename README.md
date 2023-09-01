@@ -6,6 +6,8 @@ This is my second account (I didn't like the name) and am currently in the proce
 A collection of single-purpose Discord bots created to enhance your Discord experience and add useful functionality
 ### [Axle](https://github.com/TrigamDev/Axle)
 A scripting language allowing you to create custom commands for the Trigam Botnet
+### [Epico Archive](https://github.com/TrigamDev/Epico-Archive)
+An image hosting and searching web app for me and my friends
 ### [wumpus.js](https://github.com/TrigamDev/wumpus.js)
 A Discord API wrapper
 ### [Confine](https://github.com/TrigamDev/Confine)
