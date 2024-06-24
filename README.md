@@ -15,10 +15,10 @@ A Minecraft mod featuring various *collecions* of vanilla-style features
 ### [![Stats](https://github-readme-stats.vercel.app/api/?username=TrigamDev&theme=github_dark&show_icons=true)](https://github.com/TrigamDev/)
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrigamDev&theme=github_dark&langs_count=10&layout=donut)](https://github.com/TrigamDev/)
 ## Contacts
-* Email - trigambusiness@gmail.com  
+* [Email](mailto:trigambusiness@gmail.com)
 * Discord - trigam
-* Discord Server - https://dsc.gg/trigam-den 
-* Twitter - https://twitter.com/Trigam04  
-* YouTube - https://www.youtube.com/@trigamdev
+* [Discord Server](https://dsc.gg/trigam-den)
+* [Twitter](https://twitter.com/TrigamDev)
+* [YouTube](https://www.youtube.com/@trigamdev)
 
 [logo_panel]: https://github.com/TrigamDev/TrigamDev/blob/main/assets/logo_panel.png
